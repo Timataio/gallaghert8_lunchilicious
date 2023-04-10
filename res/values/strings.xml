@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lunchilicious</string>
+    <string name="menu_button_text">Menu</string>
+    <string name="exit">Exit</string>
+    <string name="add">Add</string>
+    <string name="desc_hint">Description</string>
+    <string name="item_name_hint">Name</string>
+    <string name="price_hint">Price (no $)</string>
+    <string name="type_hint">Type</string>
+    <string name="rating_hint">Rating</string>
+    <string name="comment_hint">Comments</string>
+    <string name="add_item_text">Add New Item</string>
+    <string name="add_review_text">Add New Review</string>
+    <string name="empty_field_text">Fill this field</string>
+    <string name="invalid_price_text">Decimals only</string>
+    <string name="invalid_rating_text">Integers only</string>
+    <string name="toast_item_fail">Add Item Failed</string>
+    <string name="toast_item_success">Item Successfully Added</string>
+    <string name="toast_review_fail">Add Review Failed</string>
+    <string name="toast_review_success">Review Successfully Added</string>
+    <string name="current_order_text">Current Order</string>
+    <string name="all_orders_text">All Orders</string>
+    <string name="reviews_text">Reviews</string>
+    <string name="add_order_text">Add to Order</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="orders_text">Orders</string>
+    <string name="view_order_text">View Order</string>
+    <string name="submit_text">Submit</string>
+</resources>
